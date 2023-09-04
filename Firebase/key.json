@@ -1,0 +1,21 @@
+{"users": [
+{
+  "localId": "kCSxP6A4SkMRzrBoO8fhdCF6QJp2",
+  "email": "raul.guzman@ciencias.unam.mx",
+  "emailVerified": false,
+  "passwordHash": "3WT98rSAvccWvz2llbe3XYeTJl8t1VnHU+d/9V2GjDi3XHmKUz6mLqnj/WXvcIT3Mx/vJ+uNKzzHhey+6w76RQ==",
+  "salt": "L/vVHvCxU156Ug==",
+  "lastSignedInAt": "1659487984993",
+  "createdAt": "1659487291267",
+  "providerUserInfo": []
+},
+{
+  "localId": "khd9ow9rGwORnQB2S9h4EhQOKp22",
+  "email": "ragumsil16@gmail.com",
+  "emailVerified": false,
+  "passwordHash": "WNc6KVkwHTc0fgH+GypUPSYEUOOTqJK/22oF7FyjU+++MWtfMGoHfzAPhfpQMfjfB6B8EwPGGUjJTWIlA7EpTg==",
+  "salt": "6Cna1WmQ5cw9qA==",
+  "lastSignedInAt": "1664576123068",
+  "createdAt": "1659479334138",
+  "providerUserInfo": []
+}]}
